@@ -15,9 +15,10 @@
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "password": "pa$$word",
+    "database": "digiauth",
+    "host": "digiauth.c26qvopj4zh8.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": 3306
   }
 }
