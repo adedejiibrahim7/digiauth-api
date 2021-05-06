@@ -5,6 +5,7 @@ const bcryptjs = require('bcryptjs');
 
 function index(req, res){
     res.send("JJJ");
+    // models.User.findOne({where})
 }
 function signUp(req, res){
 
